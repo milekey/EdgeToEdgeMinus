@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">EdgeToEdgeMinus</string>
+    <string name="leftTop">↖</string>
+    <string name="rightTop">↗</string>
+    <string name="leftBottom">↙</string>
+    <string name="rightBottom">↘</string>
+</resources>
